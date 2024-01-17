@@ -11,11 +11,8 @@
 🌿 My linkedIn: https://www.linkedin.com/in/au-kabir/
 
 ⭐ Research Projects: 
-                  
-                  1. Disaster Risk Transfer: A Case Study of Crop Insurance Strategy in Bangladesh; 2018
-                  
+                 <br> 1. Disaster Risk Transfer: A Case Study of Crop Insurance Strategy in Bangladesh; 2018 </br>
                   2. Study on Feasibilities and Modalities of Free Healthcare Services for Infants and Senior Citizens; 2019
-                  
                   3. Flower Species Prediction; 2020
                   4. Forecasting Walmart Sales; 2020
                   5. Predicting diabetes based on medical informations; 2021

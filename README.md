@@ -23,12 +23,12 @@
                 <br> 10. Predicting Credit Card Customer Churn (ANN); 2023</br>
                   
 🔰 Contributed Publications: 
-                  1. Action Plan and Methodological Guidelines towards Data Generation & Disaggregation for Monitoring and Evaluation of SDGs; 2020
-                  2. Report on Urban Socio-economic Status survey-2019; 2020
-                  3. National Quality Assurance Framework (NQAF) Manual for Official Statistics; 2021
-                  4. BBS Glossary (Concepts and Definitions); 2021
-                  5. Report on User Satisfaction Survey-2022; 2022
-                  6. Report on Water, Sanitation and Hygiene (WASH) Expenditure Survey 2021; 2022
-                  6. Data Dissemination Policy for National Statistics Office; 2023
-                  7. Revised National Strategy for the Development of Statistics (2024-2030); 2023
+                <br> 1. Action Plan and Methodological Guidelines towards Data Generation & Disaggregation for Monitoring and Evaluation of SDGs; 2020</br> 
+                <br> 2. Report on Urban Socio-economic Status survey-2019; 2020</br> 
+                <br> 3. National Quality Assurance Framework (NQAF) Manual for Official Statistics; 2021</br> 
+                <br> 4. BBS Glossary (Concepts and Definitions); 2021</br> 
+                <br> 5. Report on User Satisfaction Survey-2022; 2022</br> 
+                <br> 6. Report on Water, Sanitation and Hygiene (WASH) Expenditure Survey 2021; 2022</br> 
+                <br> 6. Data Dissemination Policy for National Statistics Office; 2023</br> 
+                <br> 7. Revised National Strategy for the Development of Statistics (2024-2030); 2023</br> 
 

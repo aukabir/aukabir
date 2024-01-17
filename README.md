@@ -12,6 +12,7 @@
 
 ⭐ Research Projects: 
                   1. Disaster Risk Transfer: A Case Study of Crop Insurance Strategy in Bangladesh; 2018
+                  
                   2. Study on Feasibilities and Modalities of Free Healthcare Services for Infants and Senior Citizens; 2019
                   3. Flower Species Prediction; 2020
                   4. Forecasting Walmart Sales; 2020
